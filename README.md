@@ -1,2 +1,2 @@
-# algorytmy-szyfrowania
+# Algorytmy sortowania
 Wizualizacja killku algorytmów sortowania
